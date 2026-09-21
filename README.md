@@ -1,6 +1,7 @@
  Database Folder Matcher
 
-# 
+<img width="650" height="644" alt="image" src="https://github.com/user-attachments/assets/d8eaf02a-67fd-4ced-b802-a798f36df2df" />
+
 
 # A Windows Forms (VB.NET) app that loads a SQLite `.db` file, scans its main table into a fast virtual list, and matches folders on disk with the database by name, by ID, or both.
 
